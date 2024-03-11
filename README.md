@@ -40,5 +40,5 @@
   <a href="https://www.linkedin.com/in/leconiches/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:lecotv2006123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  <img src="https://tenor.com/bZcLq.gif" height="100px" width="100px">
+  <div class="tenor-gif-embed" data-postid="26941062" data-share-method="host" data-aspect-ratio="0.903125" data-width="100%"><a href="https://tenor.com/view/umbreon-shiny-pokemon-gif-26941062">Umbreon Shiny Sticker</a>from <a href="https://tenor.com/search/umbreon-stickers">Umbreon Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
