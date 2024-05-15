@@ -18,7 +18,7 @@
            target="_blank" 
       />
     </a>  <br>
-     E no momento estou no ° Ano do Ensino Médio Técnico.</p>
+     E no momento estou no 3° Ano do Ensino Médio Técnico.</p>
   </p>
   
   <p align="center">
